@@ -40,7 +40,7 @@ Discord: aliaksandra_audzeikina
 *****
 
 #### Experience:
-   - Final project of EPAM external trainings '18(https://github.com/aliaksandra-audzeikina/Project.git)
+   - [Final project of EPAM external trainings '18](https://github.com/aliaksandra-audzeikina/Project.git)
 
 *****
 
